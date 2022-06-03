@@ -463,6 +463,31 @@ body.hide {
     text-align: center;
   }
 }
+
+@media screen and (max-width: 658px) {
+  html {
+    max-width: 658px;
+    max-height: 100vh;
+  }
+
+  #img1 {
+    /* object-position: 0; */
+    width: 30rem;
+    height: 20rem;
+  }
+  #img2 {
+    width: 30rem;
+    height: 20rem;
+  }
+  #img3 {
+    width: 30rem;
+    height: 20rem;
+  }
+  #img4 {
+    width: 30rem;
+    height: 20rem;
+  }
+}
 /* 390px and less */
 @media screen and (max-width: 390px) {
   html {
