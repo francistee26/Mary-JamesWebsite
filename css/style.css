@@ -402,7 +402,7 @@ body.hide {
   }
   img {
     /* max-width: 20rem; */
-    max-height: 20rem;
+    /* max-height: 20rem; */
     /* height: auto; */
     /* max-width: 100%; */
   }
@@ -485,7 +485,7 @@ body.hide {
   }
 
   #img1 {
-    width: 2rem;
+    width: 23rem;
     height: 20rem;
   }
   #img2 {
