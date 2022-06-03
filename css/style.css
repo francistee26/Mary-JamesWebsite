@@ -485,6 +485,7 @@ body.hide {
   }
 
   #img1 {
+    object-position: 0;
     width: 23rem;
     height: 20rem;
   }
